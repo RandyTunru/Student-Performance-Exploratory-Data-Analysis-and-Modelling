@@ -1,4 +1,6 @@
-# Project Summary
+# Student Performance Exploratory Data Analysis and Modelling
+
+## Project Summary
 
 This project analyzes student performance data using Python from . The notebook covers the following:
 
@@ -10,7 +12,7 @@ This project analyzes student performance data using Python from . The notebook 
 
 The notebook provides insights into factors affecting student performance and demonstrates data science workflows from preprocessing to modeling.
 
-# What I Learned
+## What I Learned
 
 - Exploratory Data Analysis, How to report and analyze data through statistical properties and tests
 - Data Visualization, How to visualize data and interpret from it
